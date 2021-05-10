@@ -1,0 +1,7 @@
+﻿web-scraper-order,web-scraper-start-url,Date,Open,Close
+1620644139-3045,https://finance.yahoo.com/quote/TWT-USD/history?period1=1596067200&period2=1620604800&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"Aug 01, 2020",0.0074,0.0517
+1620644139-3037,https://finance.yahoo.com/quote/TWT-USD/history?period1=1596067200&period2=1620604800&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"Apr 01, 2021",0.6169,0.6837
+1620644139-3036,https://finance.yahoo.com/quote/TWT-USD/history?period1=1596067200&period2=1620604800&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"May 01, 2021",0.685,0.9531
+1620644139-3035,https://finance.yahoo.com/quote/TWT-USD/history?period1=1596067200&period2=1620604800&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"May 10, 2021",0.9317,0.9313
+1620644139-3043,https://finance.yahoo.com/quote/TWT-USD/history?period1=1596067200&period2=1620604800&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"Oct 01, 2020",0.0243,0.0801
+1620644139-3044,https://finance.yahoo.com/quote/TWT-USD/history?period1=1596067200&period2=1620604800&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true,"Sep 01, 2020",0.0517,0.0243
